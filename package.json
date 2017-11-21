@@ -1,0 +1,23 @@
+{
+  "name": "@danbloy/how-to-npm",
+  "version": "1.0.0",
+  "description": "myFirstNPMPackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danbloy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBloy/MyFirstNPMPackage.git"
+  },
+  "keywords": [
+    "npm",
+    "danbloy"
+  ],
+  "bugs": {
+    "url": "https://github.com/DanBloy/MyFirstNPMPackage/issues"
+  },
+  "homepage": "https://github.com/DanBloy/MyFirstNPMPackage#readme"
+}
